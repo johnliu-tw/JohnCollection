@@ -1,0 +1,20 @@
+{
+    "name": "johnliu/john-collection",
+    "description": "This is john's collection",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Johnliu\\JohnCollection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "johnliu",
+            "email": "johnliutw@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "laravel/framework": "^8.0"
+    }
+}
